@@ -2,7 +2,7 @@ import subprocess
 import optparse
 import re
 
-print("\t\t\tMaC cHanGer\n\t\t\t By AnKiT\n\n")
+print("\t\t\tMaC cHanGer\n\t\t\t  By AnKiT\n\n")
 
 def get_arguments():
     parser = optparse.OptionParser()
