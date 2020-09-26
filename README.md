@@ -7,6 +7,6 @@ Type:  python3 mac_changer.py -i interface -m New Mac Address
 
 for example:  python3 mac_changer.py -i eth0 -m 44:76:34:23:11:99
 
-for any help, type:  python3 mac_changer -h or --help
+for any help, type:  python3 mac_changer.py -h or --help
 
                    Thank you.
