@@ -1,6 +1,8 @@
 # MaC-cHanGer
 U can use MaC cHanGer to change your Mac Address.
 
+| NOTE: Install python in your linux machine before using this tool. |
+
 To use the tool,
 
 Type:  python3 mac_changer.py -i interface -m New Mac Address
